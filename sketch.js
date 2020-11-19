@@ -15,7 +15,7 @@ function setup() {
 }
 
 function gotData(giphy){
-  for (var i = 0; i< giphy.data.length; i++){
+  for (var i = 0; i < giphy.data.length; i++){
 
   createImg(giphy.data[i].images.original.url);
 
