@@ -1,7 +1,7 @@
 
 var api = "http://api.giphy.com/v1/gifs/search?";
 var apiKey = "&api_key=eaw3IYGqk5f4nex5DCbpZjZdR8JxhSPK";
-var query = "&q=JOJO";
+var query = "&q=anime";
 
 
 
